@@ -9,14 +9,14 @@ lalu menukarkan kode referral sebelum lanjut memasang muse-bridge.
 
 <div align="center">
 
-## 🎁 KODE REFERRAL: `IB4FJR`
+## 🎁 KODE REFERRAL: `MZMT4Y`
 
 **Tukarkan dalam 48 jam setelah bergabung dan kita berdua mendapatkan
 1 miliar token Muse.**
 
 ### 👉 [Gabung Muse di sini](https://muse.ai/join)
 
-**Kode: `IB4FJR`**
+**Kode: `MZMT4Y`**
 
 </div>
 
@@ -82,7 +82,7 @@ Lakukan ini **maksimal 48 jam setelah akun Muse dibuat**.
 
 <div align="center">
 
-# `IB4FJR`
+# `MZMT4Y`
 
 </div>
 
@@ -94,7 +94,7 @@ Lakukan ini **maksimal 48 jam setelah akun Muse dibuat**.
 
 1. Buka **Settings** di aplikasi Muse.
 2. Pilih **Redeem token**.
-3. Masukkan **`IB4FJR`**, lalu konfirmasi.
+3. Masukkan **`MZMT4Y`**, lalu konfirmasi.
 
 > Menu penukaran adalah menu di dalam **Muse**, bukan Settings HP dan
 > bukan Settings WhatsApp/aplikasi lain.
